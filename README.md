@@ -6,7 +6,7 @@ This page is dedicated to consolidate available automation projects created for 
 
 ## Mobile Examples
 
-
+[AI-Powered Self Healing Tests](https://github.com/ExperitestOfficial/CT-Self-Healing-Tests) - This repository provided examples into how tests with and without AI-Powered Self Healing affects the outcome. A step by step guide that can be used to get started quickly.
 
 ## Cross Browser Examples
 
