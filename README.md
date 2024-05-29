@@ -10,4 +10,4 @@ This page is dedicated to consolidate available automation projects created for 
 
 ## Cross Browser Examples
 
-[Axe Integration with Cross Browser]([https://github.com/ExperitestOfficial/CT-Axe-Integration-Cross-Browser]) - This repository provides a basic example of how one can leverage Deque Axe's libraries to scan web pages, identify violations and have that part of the reports generated in Digital.ai's Continuous Testing platform.
+[Axe Integration with Cross Browser](https://github.com/ExperitestOfficial/CT-Axe-Integration-Cross-Browser) - This repository provides a basic example of how one can leverage Deque Axe's libraries to scan web pages, identify violations and have that part of the reports generated in Digital.ai's Continuous Testing platform.
