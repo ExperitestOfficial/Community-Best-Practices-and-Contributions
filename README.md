@@ -1,4 +1,4 @@
-# Community-Contributions
+# Community-Best-Practices-and-Contributions
 
 ![image](https://github.com/ExperitestOfficial/Community-Contributions/assets/71343050/c8ef2a82-84ef-48ea-b4eb-da66c94efe41)
 
